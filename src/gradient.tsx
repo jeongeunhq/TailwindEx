@@ -29,6 +29,9 @@ export default function Gradient() {
         ></path>
       </svg>
     </a>
+    <button className="mt-[20px] text-[20px] p-[10px] rounded-lg transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-150 hover:bg-indigo-200 duration-300 ...">
+  Button
+</button>
         </div>
     );
 }
